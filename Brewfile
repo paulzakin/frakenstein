@@ -8,7 +8,7 @@ cask "alfred"
 cask "amethyst"
 cask "bettertouchtool"
 cask "docker"
-cask "ferdi 
+cask "ferdi"
 cask "google-chrome"
 cask "pgadmin4"
 cask "zoom"
