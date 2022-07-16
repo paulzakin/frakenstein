@@ -4,7 +4,7 @@
 
 My setup is powered by Homebrew and `zsh` as the shell. 
 
-## Setup
+## My Setup
 
 1. Move the `.zhsrc` and the `Brewfile` to your home directory.
 2. Install [Homebrew](https://brew.sh/).
