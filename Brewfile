@@ -3,7 +3,6 @@ tap "homebrew/cask-fonts"
 
 cask "alfred"
 cask "amethyst"
-cask "bettertouchtool"
 cask "docker"
 cask "ferdium"
 cask "google-chrome"
